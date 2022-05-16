@@ -1,1 +1,5 @@
-
+git clone: This command is used to obtain a repository from an existing URL.
+git add: This command adds a file to the staging area
+git commit: This command records or snapshots the file permanently in the version history.
+git branch: will show all all the local branches of the repository. 
+git config: This command sets the author name and email address respectively to be used with your commits.
