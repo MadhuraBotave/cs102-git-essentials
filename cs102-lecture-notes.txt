@@ -3,3 +3,7 @@ git add: This command adds a file to the staging area
 git commit: This command records or snapshots the file permanently in the version history.
 git branch: will show all all the local branches of the repository. 
 git config: This command sets the author name and email address respectively to be used with your commits.
+Summary: In today's lecture we learned several new git related commands some of the are- git add, git commit, git push. Some other miscelleneous commands were also taught, a short descriptions of those are as follows-
+git rev-parse --abbrev-ref HEAD or git branch --show-current: To know the current branch
+git log --oneline --decorate --graph --all : For a better visualization of your repository with all commits and details
+Other than this references were given for further studies if the learner is curious.
